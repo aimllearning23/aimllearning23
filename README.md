@@ -26,7 +26,7 @@ I'm currently focused on building expertise in:
  
 ## 🚀 What I'm Building
  
-### 🛡️ AI Security Blueprint (https://github.com/aimllearning23/AI-Security-Blueprint)
+### 🛡️ [AI Security Blueprint](https://github.com/aimllearning23/AI-Security-Blueprint)
 A practical framework for securing AI systems, protecting enterprise data, and managing AI-related risks.
  
 ### 📖 Enterprise AI Governance Playbook
